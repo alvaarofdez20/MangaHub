@@ -1,0 +1,40 @@
+# Xcode - User settings
+*.xcuserstate
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+Secrets.xcconfig
+Config/Secrets.xcconfig
+*.p8
+*.p12
+*.mobileprovision

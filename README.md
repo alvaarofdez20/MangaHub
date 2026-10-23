@@ -10,6 +10,14 @@ This project was developed to put iOS development concepts into practice, with a
 
 ---
 
+## 📱 Screenshots
+
+| Explore | Collection | Reading Progress |
+|:---:|:---:|:---:|
+| <img src="Screenshots/explore.png" width="250" alt="Manga discovery screen"> | <img src="Screenshots/collection.png" width="250" alt="Personal manga collection"> | <img src="Screenshots/reading-progress.png" width="250" alt="Reading progress screen"> |
+
+---
+
 ## ✨ Features
 
 ### 🔎 Manga Discovery

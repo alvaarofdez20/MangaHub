@@ -171,7 +171,7 @@ Developed by Álvaro Fernández de Cordova Orta
 iOS Developer | Swift & SwiftUI
 
 - **GitHub:** alvaarofdez20
-- **LinkedIn:** www.linkedin.com/in/álvaro-fernández-de-cordova-orta-a25b40263
+- **LinkedIn:** www.linkedin.com/in/alvaarofdez20
 
 ---
 

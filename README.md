@@ -97,7 +97,7 @@ The application uses:
 - **Swift Concurrency** for asynchronous operations.
 - **Swift** for processing and managing application data.
 
-**API Provider:** https://mymanga-acacademy-5607149ebe3d.herokuapp.com/
+**API Provider:** 
 
 ---
 
